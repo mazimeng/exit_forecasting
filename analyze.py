@@ -63,7 +63,7 @@ for window in windows:
         top_minus_bottom_median_alpha = top_median_alpha - bottom_median_alpha
 
         row = [factor_full_name, window,
-               top_mean_return, bottom_median_return, top_minus_bottom_mean_return,
+               top_mean_return, bottom_mean_return, top_minus_bottom_mean_return,
                top_median_return, bottom_median_return, top_minus_bottom_median_return,
                top_mean_alpha, bottom_mean_alpha, top_minus_bottom_mean_alpha,
                top_median_alpha, bottom_median_alpha, top_minus_bottom_median_alpha,
