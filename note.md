@@ -1,0 +1,6 @@
+financial_quality_capital_structure_factor.Current_Asset_to_Total_Asset
+
+0.968818618
+
+20200117
+300755.SZ
